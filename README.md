@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hi, I'm Priyanshu (Butkii) 
+#  Hi, I'm Butkii by call name
 
 > 🎨 **Data Scientist & Frontend Developer** bridging the gap between predictive modeling and creative user experiences.
 
@@ -58,20 +58,6 @@
       <td align="center" colspan="2">
         <br />
         <img src="https://streak-stats.demolab.com/?user=butkii025&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" width="100%">
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=butkii025&theme=tokyonight&no-bg=true&margin-w=15" width="100%" alt="GitHub Trophies" />
       </td>
     </tr>
   </table>
