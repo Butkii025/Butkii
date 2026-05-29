@@ -1,7 +1,12 @@
 <div align="center">
 
-#  Hi, I'm Priyanshu (Butkii) 
+#  Hi, I'm Priyanshu (Butkii) 
+
+> 🎨 **Data Scientist & Frontend Developer** bridging the gap between predictive modeling and creative user experiences.
+
 </div>
+
+---
 
 ## 💻 Tech Stack
 
@@ -37,23 +42,41 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" width="100%">
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=butkii025&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="100%" alt="Priyanshu's GitHub Stats" />
+      </td>
+      <td align="center" valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=butkii025&theme=tokyonight&layout=compact&hide_border=true" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <br />
+        <img src="https://streak-stats.demolab.com/?user=butkii025&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<table border="0">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=butkii025&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="100%" alt="Priyanshu's GitHub Stats" />
-    </td>
-    
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com/?user=butkii025&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" width="100%">
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=butkii025&theme=tokyonight&no-bg=true&margin-w=15" width="100%" alt="GitHub Trophies" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 <div align="center">
