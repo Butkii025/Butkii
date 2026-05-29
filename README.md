@@ -57,12 +57,6 @@
     </td>
   </tr>
 </table>
-
-### 🔝 Top Contributed Repositories
-<img src="https://github-contributor-stats.vercel.app/api?username=butkii025&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="80%" />
-
-</div>
-
 ---
 
 <div align="center">
