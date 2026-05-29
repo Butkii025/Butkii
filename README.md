@@ -1,6 +1,8 @@
 <div align="center">
 
-#  Hi, I'm Priyanshu (Butkii)
+#  Hi, I'm Priyanshu (Butkii) 
+<div align="center">
+ ## part time artist
 </div>
 
 ## 💻 Tech Stack
