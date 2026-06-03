@@ -24,11 +24,10 @@ butkii = {
     "focus"     : ["Predictive Modeling", "Frontend Engineering", "Visual Storytelling"],
     "tools"     : ["Python", "Next.js", "Tailwind", "scikit-learn", "Adobe Suite"],
     "currently" : "Exploring the intersection of ML dashboards & immersive UI",
-    "philosophy": "Good design makes data speak. Great design makes it sing.",
+    "playful"   : "Tea is my constant muse 🍵—no matter the weather, its warmth stirs my imagination.",
 }
 ```
 
-> *I don't just build things — I craft experiences where analytical rigor and creative intuition coexist.*
 
 ---
 
