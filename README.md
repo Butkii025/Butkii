@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=280&section=header&text=Butkii&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creative%20Technologist%20•%20Data%20Scientist%20•%20Frontend%20Developer&descSize=20&descAlignY=62&descColor=7dcfff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=280&section=header&text=Priyanshu&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creative%20Technologist%20•%20Data%20Scientist%20•%20Frontend%20Developer&descSize=20&descAlignY=62&descColor=7dcfff" width="100%" />
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 ## 🧠 About Me
 
 ```python
-butkii = {
+Priyanshu = {
     "identity"  : "Creative Technologist — where data meets design",
     "focus"     : ["Predictive Modeling", "Frontend Engineering", "Visual Storytelling"],
     "tools"     : ["Python", "Next.js", "Tailwind", "scikit-learn", "Adobe Suite"],
