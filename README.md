@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=280&section=header&text=Priyanshu&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creative%20Technologist%20•%20Data%20Scientist%20•%20Frontend%20Developer&descSize=20&descAlignY=62&descColor=7dcfff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=280&section=header&text=Priyanshu&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20•%20Data%20Scientist%20•%20Developer&descSize=20&descAlignY=62&descColor=7dcfff" width="100%" />
 </div>
 
 <div align="center">
@@ -21,8 +21,8 @@
 ```python
 Priyanshu = {
     "identity"  : "Creative Technologist — where data meets design",
-    "focus"     : ["Predictive Modeling", "Frontend Engineering", "Visual Storytelling"],
-    "tools"     : ["Python", "Next.js", "Tailwind", "scikit-learn", "Adobe Suite"],
+    "focus"     : ["Predictive Modeling", "ML Engineering", "Visual Storytelling"],
+    "tools"     : ["Python", "Next.js", "React", "scikit-learn", "Adobe Suite"],
     "currently" : "Exploring the intersection of ML dashboards & immersive UI",
     "playful"   : "Tea is my constant muse 🍵—no matter the weather, its warmth stirs my imagination.",
 }
@@ -85,14 +85,6 @@ Priyanshu = {
         <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
         <img src="https://img.shields.io/badge/Three.js_/_R3F-0D1117?style=flat-square&logo=threedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwind-css&logoColor=38B2AC" />
-      </td>
-      <td width="50%" valign="top">
-        <h3>🎴 <a href="https://github.com/Butkii025/Craft-Greet">Craft-Greet</a></h3>
-        <p>Browser-based greeting card generator — pick an occasion, upload an image, write a message, and preview a personalized card in real time.<br/>Built with pure HTML, CSS & JavaScript — no frameworks, no dependencies, just clean vanilla web tech.</p>
-        <p><b>Live:</b> <a href="https://butkii025.github.io/Craft-Greet/">butkii025.github.io/Craft-Greet</a></p>
-        <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26" />
-        <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6" />
-        <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
       </td>
     </tr>
     <tr>
